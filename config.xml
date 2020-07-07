@@ -1,0 +1,5 @@
+<config>
+    <port>9002</port>
+    <step>2</step>
+    <resize>0.4</resize>
+</config>
