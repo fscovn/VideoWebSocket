@@ -3,9 +3,9 @@ WebSocket Server for video
 # Yêu cầu:
 Websocket chạy trên nền tảng linux (ubuntu)
 ## Cài đặt thư viện:
-- Cài đặt opencv
+- Cài đặt opencv: 
 sudo apt install libopencv-dev
-- Cài đặt websocketpp
+- Cài đặt websocketpp: 
 sudo apt install libwebsocketpp-dev
 
 ## IDE
